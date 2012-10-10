@@ -8,7 +8,7 @@ package dip.lab3;
  *
  * @author Gautam
  */
-public class Message {
+public class Message implements MessageInterface{
     
     private String message;
     
